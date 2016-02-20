@@ -38,9 +38,9 @@
 				<string>1.0.0</string>
 				<key>kind</key>
 				<string>software</string>
-				<key>title/key>
+				<key>title</key>
 				<string>思创云总线</string>
-				<key>subtitle/key>
+				<key>subtitle</key>
 				<string>思创云总线V1.0.0版本</string>
 			</dict>
 		</dict>
